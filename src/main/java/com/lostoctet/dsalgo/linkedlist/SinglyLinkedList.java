@@ -6,6 +6,7 @@ public class SinglyLinkedList {
     }
     public void addNode(int A) {
         System.out.println("Hi");
+        System.out.println("Staging Branch");
 
     }
 
