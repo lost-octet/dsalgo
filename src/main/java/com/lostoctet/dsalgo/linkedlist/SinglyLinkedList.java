@@ -5,6 +5,7 @@ public class SinglyLinkedList {
         System.out.println("Linked List Testing");
     }
     public void addNode(int A) {
+        System.out.println("Hi");
 
     }
 
